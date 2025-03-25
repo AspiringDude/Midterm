@@ -35,5 +35,11 @@
     <a href="{{ route('about') }}" class="btn btn-info">About</a>
 </div>
 
+<div class="d-flex justify-content-center mt-4">
+    <a href="{{ route('about') }}" class="btn btn-info me-2">About</a>
+    <a href="{{ route('faq') }}" class="btn btn-warning">FAQ</a>
+</div>
+
+
 </body>
 </html>
