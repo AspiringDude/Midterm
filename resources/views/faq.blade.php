@@ -5,6 +5,32 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>FAQ</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #121212;
+            color: #ffffff;
+        }
+        .accordion-button {
+            background-color: #333;
+            color: white;
+        }
+        .accordion-button:not(.collapsed) {
+            background-color: #444;
+            color: white;
+        }
+        .accordion-body {
+            background-color: #222;
+            color: white;
+        }
+        .btn-secondary {
+            background-color: #444;
+            border: none;
+            color: white;
+        }
+        .btn-secondary:hover {
+            background-color: #555;
+        }
+    </style>
 </head>
 <body class="container mt-5 text-center">
     <h2 class="mb-4">Frequently Asked Questions</h2>
@@ -44,7 +70,7 @@
         <a href="{{ route('home') }}" class="btn btn-secondary">Back to Home</a>
     </div>
 
-    <!-- Bootstrap JS (Make sure this is included for accordion to work) -->
+    <!-- Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
