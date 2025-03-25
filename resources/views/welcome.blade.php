@@ -17,5 +17,10 @@
         <a href="{{ route('departments.index') }}" class="list-group-item list-group-item-action">Manage Departments</a>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    
+    <div class="d-flex justify-content-center mt-4">
+    <a href="{{ route('about') }}" class="btn btn-info">About</a>
+</div>
+
 </body>
 </html>
