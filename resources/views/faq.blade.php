@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FAQ</title>
+    <title>FAQ Page</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body {
@@ -11,7 +11,7 @@
             color: #ffffff;
         }
         .accordion-button {
-            background-color: #333;
+            background-color: #333; 
             color: white;
         }
         .accordion-button:not(.collapsed) {
