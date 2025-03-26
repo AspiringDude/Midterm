@@ -1,11 +1,14 @@
 College Department Management System
+
 Project Overview
+
 The College Department Management System is a web-based application that allows users to manage colleges and departments efficiently. The system provides features to add, edit, and delete colleges and departments, ensuring smooth organization and management.
 Features:
 •	College Management: Add, update, and delete colleges.
 •	Department Management: Associate departments with colleges and modify their details.
 •	Responsive UI: Works seamlessly across different devices.
 •	Database Integration: Stores and retrieves data dynamically.
+
 Steps to Clone and Run the Application
 Prerequisites:
 Ensure you have the following installed:
@@ -14,12 +17,6 @@ Ensure you have the following installed:
 •	MySQL 
 Clone the Repository:
 git clone https://github.com/AspiringDude/Midterm.git
-
-
-
-
-
-
 
 Set Up the Environment:
 1.	Create a .env file by copying the example:
@@ -31,11 +28,13 @@ Set Up the Environment:
 7.	DB_DATABASE=your_database_name
 8.	DB_USERNAME=your_username
 9.	DB_PASSWORD=your_password
+    
 Start the Application:
 On terminal
 laravel install
 php artisan serve
 Visit http://127.0.0.1:8000 in your browser.
+
 Git Workflow Explanation
 Branching Strategy:
 1.	main Branch: Stable production-ready code.
