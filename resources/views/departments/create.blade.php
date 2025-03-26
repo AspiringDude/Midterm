@@ -7,6 +7,19 @@
         body {
             background: url('{{ asset('images/ey2.jpg') }}') no-repeat center center fixed;
             background-size: cover;
+            font-size: 18px; /* Adjusted font size for the entire page */
+        }
+        h2 {
+            font-size: 28px; /* Adjusted font size for the header */
+        }
+        table {
+            font-size: 16px; /* Adjusted font size for the table */
+        }
+        th {
+            font-size: 18px; /* Adjusted font size for table headings */
+        }
+        td {
+            font-size: 16px; /* Adjusted font size for table data */
         }
     </style>
 </head>
