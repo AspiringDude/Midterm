@@ -15,9 +15,9 @@ Prerequisites:
 
 Ensure you have the following installed:
 
-•	PHP (8.1 +)
-•	Composer (Dependency manager for PHP)
-•	MySQL 
+1. PHP (8.1 +)
+2. Composer (Dependency manager for PHP)
+3. MySQL 
 
 Clone the Repository:
 git clone https://github.com/AspiringDude/Midterm.git
