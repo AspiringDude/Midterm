@@ -10,11 +10,13 @@ Features:
 •	Database Integration: Stores and retrieves data dynamically.
 
 Steps to Clone and Run the Application
+
 Prerequisites:
 Ensure you have the following installed:
 •	PHP (8.1 +)
 •	Composer (Dependency manager for PHP)
 •	MySQL 
+
 Clone the Repository:
 git clone https://github.com/AspiringDude/Midterm.git
 
