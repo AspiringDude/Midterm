@@ -4,10 +4,10 @@ Project Overview
 
 The College Department Management System is a web-based application that allows users to manage colleges and departments efficiently. The system provides features to add, edit, and delete colleges and departments, ensuring smooth organization and management.
 Features:
-•	College Management: Add, update, and delete colleges.
-•	Department Management: Associate departments with colleges and modify their details.
-•	Responsive UI: Works seamlessly across different devices.
-•	Database Integration: Stores and retrieves data dynamically.
+1. College Management: Add, update, and delete colleges.
+2. Department Management: Associate departments with colleges and modify their details.
+3. Responsive UI: Works seamlessly across different devices.
+4. Database Integration: Stores and retrieves data dynamically.
 
 Steps to Clone and Run the Application
 
